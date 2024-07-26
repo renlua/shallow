@@ -1,7 +1,7 @@
 {
   "code" : 200,
   "data" : {
-    "Blacklist" ：{
+    "Blacklist" : {
       "123fa98" : true,
     },
   },
