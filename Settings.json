@@ -1,8 +1,5 @@
-{
-  "code" : 200,
-  "data" : {
-    "Blacklist" : {
-      "123fa98" : true,
-    },
-  },
+return {
+  Blacklist = {
+    ["123fa98"] = "3576147898",
+  }
 }
