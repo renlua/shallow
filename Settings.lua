@@ -1,5 +1,5 @@
 return {
   Blacklist = {
-    ["123fa980"] = "35761478980",
+    ["dittolol_idk"] = "6036438344",
   }
 }
