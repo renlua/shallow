@@ -2,7 +2,7 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/renlua/shallow/main/%E5%8D%97%E5%A4%A9%E9%97%A8%E7%A4%BA%E4%BE%8B.lua"))("南天门白名单示例3.5")
 ```
-##### 对接白名单请找“397510573”
+###### 对接白名单请找“397510573”
 
 ## 忍脚本
 ```lua
